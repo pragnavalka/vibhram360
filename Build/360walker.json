@@ -1,0 +1,14 @@
+{
+"companyName": "vibhram",
+"productName": "walker",
+"dataUrl": "360walker.data.unityweb",
+"asmCodeUrl": "360walker.asm.code.unityweb",
+"asmMemoryUrl": "360walker.asm.memory.unityweb",
+"asmFrameworkUrl": "360walker.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "360walker.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
